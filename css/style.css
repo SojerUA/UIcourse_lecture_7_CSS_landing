@@ -90,7 +90,7 @@ ul {
     width: 33px;
     height: 19px;
     display: inline-block;
-    background-image: url(/img/check_red.png);
+    background-image: url(../img/check_red.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -103,7 +103,7 @@ ul {
     width: 33px;
     height: 19px;
     display: inline-block;
-    background-image: url(/img/check_green.png);
+    background-image: url(../img/check_green.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
