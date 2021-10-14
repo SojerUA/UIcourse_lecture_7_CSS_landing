@@ -96,7 +96,7 @@ ul {
     background-repeat: no-repeat;
     position: relative;
     left: -12%;
-    margin: 0px -33px 0px 0px;
+    margin: 0px -33px 0px 0px; /* Dont use negative values for neither margin nor left etc. Try to align it in a normal way */
 }
 .marc::before {
     content: "";
